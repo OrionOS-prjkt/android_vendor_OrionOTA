@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Hirokixd",
+        "oem": "Xiaomi",
+        "device": "ginkgo",
+        "filename": "OrionOS-14.0-Cosmic-ginkgo-OFFICIAL-Vanilla-20240713.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/ginkgo/OrionOS-14.0-Cosmic-ginkgo-OFFICIAL-Vanilla-20240713.zip.zip/download",
+        "timestamp": 452168179,
+        "md5": "332c57e1095319da8661bbd57cc5bef7",
+        "size": 1322219097,
+        "version": "Cosmic"
+    }
+  ]
+}
