@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "Skyy丨アラタ",
+        "oem": "Xiaomi",
+        "device": "ginkgo",
+        "device_name": "Poco X3 NFC",
+        "filename": "OrionOS-14.0-Cosmic-surya-OFFICIAL-Gapps-20240715.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/surya/OrionOS-14.0-Cosmic-surya-OFFICIAL-Gapps-20240715.zip/download",
+        "timestamp": 1721054598,
+        "md5": "f57ac73c0899f5787cbede88e4c73601",
+        "size": 2047521119,
+        "version": "Cosmic"
+    }
+  ]
+}
