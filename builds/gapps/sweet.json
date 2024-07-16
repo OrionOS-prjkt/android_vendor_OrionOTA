@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "RomiYusnandar",
+        "oem": "Xiaomi",
+        "device": "sweet",
+        "device_name": "Redmi Note 10 Pro",
+        "filename": "OrionOS-14.0-Cosmic-sweet-OFFICIAL-Gapps-20240716.zip ",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sweet/OrionOS-14.0-Cosmic-sweet-OFFICIAL-Gapps-20240716.zip/download",
+        "timestamp": 237493736,
+        "md5": "bfa61a25e304fc6a13cc775bc663cfc6",
+        "size": 2108338855,
+        "version": "Cosmic"
+    }
+  ]
+}
+
