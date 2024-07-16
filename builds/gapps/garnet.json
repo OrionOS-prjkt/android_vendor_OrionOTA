@@ -5,11 +5,11 @@
         "oem": "",
         "device": "",
         "device_name": "",
-        "filename": "OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240715.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240715.zip/download",
-        "timestamp": 1721051042,
-        "md5": "03b2b8790a1ec3ab4c8486a73e7663f3",
-        "size": 2218334206,
+        "filename": "OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240716.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240716.zip/download",
+        "timestamp": 1721095292,
+        "md5": "a0aa90d41e38e7ecbc32214d8d8495fe",
+        "size": 2217847915,
         "version": "14.0"
     }
   ]
