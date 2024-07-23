@@ -1,3 +1,8 @@
+# Changelog 23 July 2024: 
+- Updated LeicaCam to v7.5(Hotfix2) Thanks to @itzdfplayer_stash
+- Fix notifications sound after reboot
+- More
+
 # Changelog 15 July 2024: 
 - Initial official release
 - Firmware already included
