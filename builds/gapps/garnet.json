@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "",
-        "oem": "",
-        "device": "",
-        "device_name": "",
-        "filename": "OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240716.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240716.zip/download",
-        "timestamp": 1721095292,
-        "md5": "a0aa90d41e38e7ecbc32214d8d8495fe",
-        "size": 2217847915,
+        "maintainer": "rmdn.",
+        "oem": "Xiaomi",
+        "device": "garnet",
+        "device_name": "Poco X6/Redmi Note 13 Pro",
+        "filename": "OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240725.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240725.zip/download",
+        "timestamp": 1721879547,
+        "md5": "4d1f758d1e826f0446dd457716937101",
+        "size": 2207757662,
         "version": "14.0"
     }
   ]
