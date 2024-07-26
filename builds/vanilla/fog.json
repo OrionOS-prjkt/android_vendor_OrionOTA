@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "Iverz",
+        "oem": "Xiaomi",
+        "device": "fog",
+        "device_name": "Redmi 10C",
+        "filename": "OrionOS-14.0-Cosmic-fog-OFFICIAL-Vanilla-20240726.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/fog/OrionOS-14.0-Cosmic-fog-OFFICIAL-Vanilla-20240726.zip/download",
+        "timestamp": 1721942164,
+        "md5": "2b5b53792a669da20ae49acce5c38de2",
+        "size": 1320035384,
+        "version": "Cosmic"
+    }
+  ]
+}
