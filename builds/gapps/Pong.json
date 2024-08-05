@@ -5,11 +5,11 @@
         "oem": "Nothing",
         "device": "Pong",
         "device_name": "Phone 2",
-        "filename": "OrionOS-14.0-Cosmic-Pong-OFFICIAL-Gapps-20240804.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/Pong/OrionOS-14.0-Cosmic-Pong-OFFICIAL-Gapps-20240804.zip/download",
-        "timestamp": 1722769256,
-        "md5": "2502d70df1fd49ded6e192707d4bba5e",
-        "size": 2101657721,
+        "filename": "OrionOS-14.0-Cosmic-Pong-OFFICIAL-Gapps-20240805.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/Pong/OrionOS-14.0-Cosmic-Pong-OFFICIAL-Gapps-20240805.zip/download",
+        "timestamp": 1722868052,
+        "md5": "354a37a384a5efcfa6f98a8f932837f1",
+        "size": 2101657687,
         "version": "14.0"
     }
   ]
