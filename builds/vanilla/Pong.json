@@ -5,11 +5,11 @@
         "oem": "Nothing",
         "device": "Pong",
         "device_name": "Phone 2",
-        "filename": "OrionOS-14.0-Cosmic-Pong-OFFICIAL-Vanilla-20240804.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/Pong/OrionOS-14.0-Cosmic-Pong-OFFICIAL-Vanilla-20240804.zip/download",
-        "timestamp": 1722768455,
-        "md5": "ab9c89a8f436309b5855e786f98d11df",
-        "size": 1772009591,
+        "filename": "OrionOS-14.0-Cosmic-Pong-OFFICIAL-Vanilla-20240805.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/Pong/OrionOS-14.0-Cosmic-Pong-OFFICIAL-Vanilla-20240805.zip/download",
+        "timestamp": 1722841690,
+        "md5": "bd6c9b627a690563fbfd3f8963e86cb3",
+        "size": 1789973681,
         "version": "14.0"
     }
   ]
