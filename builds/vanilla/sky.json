@@ -4,11 +4,11 @@
         "maintainer": "Dhanush",
         "oem": "xiaomi",
         "device": "sky",
-        "filename": "OrionOS-14.0-Cosmic-sky-OFFICIAL-Vanilla-20240808.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Cosmic-sky-OFFICIAL-Vanilla-20240808.zip/download",
-        "timestamp": 1723098307,
-        "md5": "b10c16aee6d48961bfdabd871b26cf39",
-        "size": 1199327583,
+        "filename": "OrionOS-14.0-Cosmic-sky-OFFICIAL-Vanilla-20240809.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Cosmic-sky-OFFICIAL-Vanilla-20240809.zip/download",
+        "timestamp": 1723201830,
+        "md5": "cef90b273fb5b4b9950c33ccbf45e2cb",
+        "size": 1199087078,
         "version": "14.0"
     }
   ]
