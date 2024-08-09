@@ -1,7 +1,7 @@
 # Changelog 09 August 2024
 - Lift to check phone added
 - low sound fixed
-- Hide app feature added Settings & app list : appinfo: Show warning when hiding/unhiding the app
+- Hide app feature added Settings app list & appinfo: Show warning when hiding/unhiding the app
 
 # Changelog 08 August 2024
 - Fixed drm issues with Chrunchyroll and other streaming apps
