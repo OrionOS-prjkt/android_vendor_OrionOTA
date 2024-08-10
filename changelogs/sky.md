@@ -1,3 +1,6 @@
+# Changelog 10 August 2024
+- systemui clocks system blackscreen freeze issue fixed
+
 # Changelog 09 August 2024
 - Lift to check phone added
 - low sound fixed
