@@ -4,11 +4,11 @@
         "maintainer": "Dhanush",
         "oem": "xiaomi",
         "device": "sky",
-        "filename": "OrionOS-14.0-Cosmic-sky-OFFICIAL-Gapps-20240809.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Cosmic-sky-OFFICIAL-Gapps-20240809.zip/download",
-        "timestamp": 1723190257,
-        "md5": "fa5fe3472db5ec10f0bb234fd2a4b9e7",
-        "size": 1457127242,
+        "filename": "OrionOS-14.0-Cosmic-sky-OFFICIAL-Gapps-20240810.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Cosmic-sky-OFFICIAL-Gapps-20240810.zip/download",
+        "timestamp": 1723267736,
+        "md5": "27bfe2ddb39f7f6eebaedf5d22265e02",
+        "size": 1450450646,
         "version": "14.0"
     }
   ]
