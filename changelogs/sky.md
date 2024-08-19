@@ -1,3 +1,6 @@
+# Changelog 19 August 2024
+- Gcam added
+
 # Changelog 10 August 2024
 - systemui clocks system blackscreen freeze issue fixed
 
