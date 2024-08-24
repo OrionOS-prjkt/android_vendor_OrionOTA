@@ -1,3 +1,6 @@
+# Changelog 24 August 2024
+- added powershare device configs
+
 # Changelog 19 August 2024
 - Gcam added
 
