@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "romi.yusna",
+        "oem": "Xiaomi",
+        "device": "tissot",
+        "device_name": "Mi A1",
+        "filename": "OrionOS-14.0-Centauri-tissot-OFFICIAL-Gapps-20240824.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/tissot/OrionOS-14.0-Centauri-tissot-OFFICIAL-Gapps-20240824.zip/download",
+        "timestamp": 1724524503,
+        "md5": "0d53a93fa6733e586895584aa49005ad",
+        "size": 1210182760,
+        "version": "Centauri"
+    }
+  ]
+}
+
