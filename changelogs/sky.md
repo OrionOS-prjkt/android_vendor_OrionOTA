@@ -1,3 +1,6 @@
+# Changelog 25 August 2024
+- Disabled blur improve smoothness
+
 # Changelog 24 August 2024
 - added powershare device configs
 
