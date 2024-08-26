@@ -1,6 +1,9 @@
 # 25 August 2024:
 - Initial official release
 - Initial QPR3 A14 build
+- Sign build
+- Treble build
+- Gapps build
 - Build FPC interface from source
 - Set 720p for bootanimation
 - Using Another-Kernel
