@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "vayu",
         "device_name": "Poco X3 Pro",
-        "filename": "OrionOS-14.0-Cosmic-vayu-OFFICIAL-Gapps-20240801.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/vayu/OrionOS-14.0-Cosmic-vayu-OFFICIAL-Gapps-20240801.zip/download",
-        "timestamp": 1722571710,
-        "md5": "b11755089e81b8d3dc5eae963758f5cc",
-        "size": 2148975817,
-        "version": "Cosmic"
+        "filename": "OrionOS-14.0-Centauri-vayu-OFFICIAL-Gapps-20240827.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/vayu/OrionOS-14.0-Centauri-vayu-OFFICIAL-Gapps-20240827.zip/download",
+        "timestamp": 1724791144,
+        "md5": "0fc9715f269bf2978a4087d6674eb62c",
+        "size": 2154637263,
+        "version": "Centauri"
     }
   ]
 }
