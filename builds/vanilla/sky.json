@@ -5,11 +5,11 @@
         "oem": "xiaomi",
         "device": "sky",
         "device_name": "",
-        "filename": "OrionOS-14.0-Centauri-sky-OFFICIAL-Vanilla-20240825.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Centauri-sky-OFFICIAL-Vanilla-20240825.zip/download",
-        "timestamp": 1724591945,
-        "md5": "80fed9041be48c279e8171dce906b4c1",
-        "size": 1265025811,
+        "filename": "OrionOS-14.0-Centauri-sky-OFFICIAL-Vanilla-20240828.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Centauri-sky-OFFICIAL-Vanilla-20240828.zip/download",
+        "timestamp": 1724827663,
+        "md5": "2f4b8f3f513a0cbf6252bd5ea79e0014",
+        "size": 1264457728,
         "version": "14.0"
     }
   ]
