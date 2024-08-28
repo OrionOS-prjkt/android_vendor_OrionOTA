@@ -5,13 +5,12 @@
         "oem": "xiaomi",
         "device": "sky",
         "device_name": "",
-        "filename": "OrionOS-14.0-Centauri-sky-OFFICIAL-Gapps-20240825.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Centauri-sky-OFFICIAL-Gapps-20240825.zip/download",
-        "timestamp": 1724565509,
-        "md5": "15aa1311b946aa3786a8190835676ef9",
-        "size": 1530233317,
+        "filename": "OrionOS-14.0-Centauri-sky-OFFICIAL-Gapps-20240828.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sky/OrionOS-14.0-Centauri-sky-OFFICIAL-Gapps-20240828.zip/download",
+        "timestamp": 1724820427,
+        "md5": "18b0d7f6a7e361a845ff111995b3d04f",
+        "size": 1530199241,
         "version": "14.0"
     }
   ]
 }
-
