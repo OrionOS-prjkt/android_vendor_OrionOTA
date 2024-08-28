@@ -1,3 +1,7 @@
+# Changelog 28 August 2024
+- synced with latest source (fixed crashing)
+- strong integrity passed by default
+
 # Changelog 25 August 2024
 - Disabled blur improve smoothness
 
