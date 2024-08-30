@@ -5,11 +5,11 @@
         "oem": "Xiaomi",
         "device": "vili",
         "device_name": "Xiaomi 11T Pro",
-        "filename": "OrionOS-14.0-Centauri-vili-OFFICIAL-Gapps-20240827.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.0-Centauri-vili-OFFICIAL-Gapps-20240827.zip/download",
-        "timestamp": 1724784156,
-        "md5": "8b4f9239528155695bb067c6852a1919",
-        "size": 2292104638,
+        "filename": "OrionOS-14.0-Centauri-vili-OFFICIAL-Gapps-20240830.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.0-Centauri-vili-OFFICIAL-Gapps-20240830.zip/download",
+        "timestamp": 1725002571,
+        "md5": "f234a1ee6407ef14c9c06c14e26d082e",
+        "size": 2293586316,
         "version": "14.0"
     }
   ]
