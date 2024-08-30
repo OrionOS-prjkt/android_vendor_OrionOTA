@@ -5,11 +5,11 @@
         "oem": "Xiaomi",
         "device": "garnet",
         "device_name": "Poco X6/Redmi Note 13 Pro",
-        "filename": "OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240725.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Cosmic-garnet-OFFICIAL-Gapps-20240725.zip/download",
-        "timestamp": 1721879547,
-        "md5": "4d1f758d1e826f0446dd457716937101",
-        "size": 2207757662,
+        "filename": "OrionOS-14.0-Centauri-garnet-OFFICIAL-Gapps-20240830.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Centauri-garnet-OFFICIAL-Gapps-20240830.zip/download",
+        "timestamp": 1724984367,
+        "md5": "5223a12a67d8bd0bb5d80747aee041a7",
+        "size": 2227266585,
         "version": "14.0"
     }
   ]
