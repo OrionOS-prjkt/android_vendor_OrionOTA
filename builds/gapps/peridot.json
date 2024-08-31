@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "ramshell688",
+        "oem": "Xiaomi",
+        "device": "peridot",
+        "device_name": "",
+        "filename": "OrionOS-14.0-Centauri-peridot-OFFICIAL-Gapps-20240830.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/peridot/OrionOS-14.0-Centauri-peridot-OFFICIAL-Gapps-20240830.zip/download",
+        "timestamp": 1725081695,
+        "md5": "77227c2786ced498fb6dffc68481f3a3",
+        "size": 2820276017,
+        "version": "14.0"
+    }
+  ]
+}
