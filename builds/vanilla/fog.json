@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "fog",
         "device_name": "Redmi 10C",
-        "filename": "OrionOS-14.0-Cosmic-fog-OFFICIAL-Vanilla-20240726.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/fog/OrionOS-14.0-Cosmic-fog-OFFICIAL-Vanilla-20240726.zip/download",
-        "timestamp": 1721942164,
-        "md5": "2b5b53792a669da20ae49acce5c38de2",
-        "size": 1320035384,
-        "version": "Cosmic"
+        "filename": "OrionOS-14.0-Centauri-fog-OFFICIAL-Vanilla-20240904.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/fog/OrionOS-14.0-Centauri-fog-OFFICIAL-Vanilla-20240904.zip/download",
+        "timestamp": 1725452130,
+        "md5": "944e100ab442d8f314d6259f5e513493",
+        "size": 1329171258,
+        "version": "Centauri"
     }
   ]
 }
