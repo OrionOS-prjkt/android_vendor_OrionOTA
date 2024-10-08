@@ -1,3 +1,12 @@
+# Changelog 08 October 2024:
+- Update blobs and to V816.0.12.0.UNRMIXM
+- Switch to Paradoxes Kernel 5.10.218
+- Add intelegent equalizer in XiaomiDolby
+- Add touch improvements props
+- Increase max fling velocity
+- Apply NLSound 4.0 optimization for dolby
+- Add missing libMiVideoFilter to fix filters in MiuiCamera
+
 # Changelog 30 August 2024:
 - Add foursemi audio configs
 - Import 41_02_0c calibration and display config

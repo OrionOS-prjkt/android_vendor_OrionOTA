@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "rmdn.",
+        "maintainer": "Drenzzz.",
         "oem": "Xiaomi",
         "device": "garnet",
         "device_name": "Poco X6/Redmi Note 13 Pro",
-        "filename": "OrionOS-14.0-Centauri-garnet-OFFICIAL-Gapps-20240830.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Centauri-garnet-OFFICIAL-Gapps-20240830.zip/download",
-        "timestamp": 1724984367,
-        "md5": "5223a12a67d8bd0bb5d80747aee041a7",
-        "size": 2227266585,
+        "filename": "OrionOS-14.0-Andromeda-garnet-OFFICIAL-Gapps-20241008.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/garnet/OrionOS-14.0-Andromeda-garnet-OFFICIAL-Gapps-20241008.zip/download",
+        "timestamp": 1728386871,
+        "md5": "1895dbb901e39332101d7faad58fb5a0",
+        "size": 2180382936,
         "version": "14.0"
     }
   ]
