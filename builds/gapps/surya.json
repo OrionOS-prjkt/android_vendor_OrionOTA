@@ -5,11 +5,11 @@
         "oem": "Xiaomi",
         "device": "surya",
         "device_name": "Poco X3 NFC",
-        "filename": "OrionOS-14.0-Centauri-surya-OFFICIAL-Gapps-20240828.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/surya/OrionOS-14.0-Centauri-surya-OFFICIAL-Gapps-20240828.zip/download",
-        "timestamp": 1724803316,
-        "md5": "c708410e8acff84b45b5187c7adc78ec",
-        "size": 2061964666,
+        "filename": "OrionOS-14.0-Andromeda-surya-OFFICIAL-Gapps-20241011.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/surya/OrionOS-14.0-Andromeda-surya-OFFICIAL-Gapps-20241011.zip/download",
+        "timestamp": 1728666636,
+        "md5": "ecd5458aa715dca356a3206a49576060",
+        "size": 2057219444,
         "version": "14.0"
     }
   ]
