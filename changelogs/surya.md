@@ -1,3 +1,6 @@
+# Changelog 12 October 2024:
+- Synced with latest source
+
 # Changelog 28 August 2024:
 - Leica Camera fully working now and Updated to 5.0 Beta 8.1
 - Update kernel compiler to clang-r510928 by Google
