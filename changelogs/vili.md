@@ -1,9 +1,12 @@
-# Changelog 30 August 2024:
-- Added support for Dolby Vision
-- Updated media codec configs from HyperOS 1.0.4.0.UKDMIXM
-- Switched device blobs and firmware to HyperOS 1.0.4.0.UKDMIXM
-- Switched to Lineage common power-libperfmgr and powerhint
-- Added hints to limit cpu and gpu max clocks when battery saver is enabled
-- Added hints to disable Prime core when battery saver is enabled
-- Enabled GAME power mode in powerhint
-- Fixed crash when adding an APN
+# Changelog 12 October 2024:
+## Device:
+- Updated device blobs, firmware and camera app from HyperOS 1.0.5.0.UKDMIXM
+- Fixed Miui gallery crash when viewing pictures directly from the camera app
+- Added intelligent equalizer setting for Dolby Atmos
+- Updated display blobs from AOSPA
+- Updated adreno blobs from Nothing Phone (1)
+- Fixed screen casting (Wifi display) for LG TVs and Miracast devices
+
+## Kernel:
+- KernelSU support
+- Dropped thermal locking
