@@ -1,13 +1,17 @@
-# Changelog October 14, 2024 [Hotfix]:
+# Changelog October 24, 2024:
 ## Device:
-- Updated device blobs, firmware and camera app from HyperOS 1.0.5.0.UKDMIXM
-- Fixed Miui gallery crash when viewing pictures directly from the camera app
-- Added intelligent equalizer setting for Dolby Atmos
-- Updated display blobs from AOSPA
-- Updated adreno blobs from Nothing Phone (1)
-- Fixed screen casting (Wifi display) for LG TVs and Miracast devices
-- Fixed video playback in Netflix and other streaming apps
+- Rebased trees with latest changes from lineage
+- Add missing blobs
+- Migrate sensor HAL to AIDL interface
+- Switch to QTI Memtrack AIDL HAL
+- Update common blobs from haydn V816.0.6.0.UKKMIXM
+- Update vili blobs, firmware and MIUI camera app from V816.0.6.0.UKDMIXM
+- Decommonized citsensorservice
+- Dolby: Import russian translations
+- Lowered gpu boost for expensive rendering to 778Mhz
+- Modified thermal-normal.conf for balanced performance, credits to @tanzilw
 
 ## Kernel:
-- KernelSU support
-- Dropped thermal locking
+- Add idle state sysfs node
+- Set idle state correctly
+- Add sysfs node for trigger wake up early
