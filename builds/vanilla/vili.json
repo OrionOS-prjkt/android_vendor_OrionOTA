@@ -5,11 +5,11 @@
         "oem": "Xiaomi",
         "device": "vili",
         "device_name": "Xiaomi 11T Pro",
-        "filename": "OrionOS-14.0-Andromeda-vili-OFFICIAL-Vanilla-20241023.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.0-Andromeda-vili-OFFICIAL-Vanilla-20241023.zip/download",
-        "timestamp": 1729713863,
-        "md5": "78767d98e06e5c93b82a63eb8cdb72d4",
-        "size": 1848901986,
+        "filename": "OrionOS-14.0-Andromeda-vili-OFFICIAL-Vanilla-20241025.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.0-Andromeda-vili-OFFICIAL-Vanilla-20241025.zip/download",
+        "timestamp": 1729875204,
+        "md5": "0a21ab812042372d7783176f582a7702",
+        "size": 1848909397,
         "version": "14.0"
     }
   ]

@@ -1,4 +1,4 @@
-# Changelog October 24, 2024:
+# Changelog October 25, 2024 [HOTFIX]:
 ## Device:
 - Rebased trees with latest changes from lineage
 - Add missing blobs
@@ -10,6 +10,7 @@
 - Dolby: Import russian translations
 - Lowered gpu boost for expensive rendering to 778Mhz
 - Modified thermal-normal.conf for balanced performance, credits to @tanzilw
+- Fixed Netflix playback again (lol) 
 
 ## Kernel:
 - Add idle state sysfs node
