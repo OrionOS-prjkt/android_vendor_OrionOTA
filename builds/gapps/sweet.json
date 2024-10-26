@@ -1,16 +1,16 @@
 {
   "response": [
     {
-        "maintainer": "RomiYusnandar",
+        "maintainer": "romi.yusna",
         "oem": "Xiaomi",
         "device": "sweet",
         "device_name": "Redmi Note 10 Pro",
-        "filename": "OrionOS-14.0-Cosmic-sweet-OFFICIAL-Gapps-20240716.zip ",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/sweet/OrionOS-14.0-Cosmic-sweet-OFFICIAL-Gapps-20240716.zip/download",
-        "timestamp": 237493736,
-        "md5": "bfa61a25e304fc6a13cc775bc663cfc6",
-        "size": 2108338855,
-        "version": "Cosmic"
+        "filename": "OrionOS-14.0-Andromeda-sweet-OFFICIAL-Gapps-20241026.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/sweet/OrionOS-14.0-Andromeda-sweet-OFFICIAL-Gapps-20241026.zip/download",
+        "timestamp": 1729943582,
+        "md5": "53048a860bc80a5d6b8ebd3d5d2cc810",
+        "size": 2039605344,
+        "version": "Andromeda"
     }
   ]
 }
