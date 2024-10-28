@@ -1,3 +1,10 @@
+# 27 October 2024
+- Switch to non treble build
+- Vanilla build
+- Use Evergreen kernel
+- Set 1080p for bootanimation
+- Etc.
+
 # 25 August 2024:
 - Initial official release
 - Initial QPR3 A14 build
