@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "romi.yusna",
+        "oem": "Xiaomi",
+        "device": "tissot",
+        "device_name": "Mi A1",
+        "filename": "OrionOS-14.0-Andromeda-tissot-OFFICIAL-Vanilla-20241027.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/tissot/OrionOS-14.0-Andromeda-tissot-OFFICIAL-Vanilla-20241027.zip/download",
+        "timestamp": 1730003333,
+        "md5": "33db58e1371934f77ee74b929ed780bc",
+        "size": 921609812,
+        "version": "Andromeda"
+    }
+  ]
+}
