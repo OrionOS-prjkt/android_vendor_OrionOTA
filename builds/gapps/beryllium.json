@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "Rve",
+        "oem": "Xiaomi",
+        "device": "POCO F1",
+        "device_name": "beryllium",
+        "filename": "OrionOS-14.0-Andromeda-beryllium-OFFICIAL-Gapps-20241107.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/beryllium/OrionOS-14.0-Andromeda-beryllium-OFFICIAL-Gapps-20241107.zip/download",
+        "timestamp": 1730967171,
+        "md5": "b0b8faa7bcd773ff806b51f8608cec9f",
+        "size": 1828833592,
+        "version": "Andromeda"
+    }
+  ]
+}
