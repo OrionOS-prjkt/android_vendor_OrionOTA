@@ -4,12 +4,13 @@
         "maintainer": "Shakib",
         "oem": "xiaomi",
         "device": "rock",
-        "filename": "OrionOS-14.0-Andromeda-rock-OFFICIAL-Gapps-20241024.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/rock/OrionOS-14.0-Andromeda-rock-OFFICIAL-Gapps-20241024.zip/download",
-        "timestamp": 1729777650,
-        "md5": "b989c7bfc976abc0e4434feb9438df87",
-        "size": 1416150148,
-        "version": "Andromeda"
+        "device_name": "",
+        "filename": "OrionOS-14.1-DarkMatter-rock-OFFICIAL-Gapps-20241116.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/rock/OrionOS-14.1-DarkMatter-rock-OFFICIAL-Gapps-20241116.zip/download",
+        "timestamp": 1731786610,
+        "md5": "223b475638c7702dcd14f99a4697e1ee",
+        "size": 1476561577,
+        "version": "14.1"
     }
   ]
 }
