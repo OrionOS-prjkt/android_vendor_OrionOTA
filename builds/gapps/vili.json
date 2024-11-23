@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "vili",
         "device_name": "Xiaomi 11T Pro",
-        "filename": "OrionOS-14.0-Andromeda-vili-OFFICIAL-Gapps-20241107.zip",
-        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.0-Andromeda-vili-OFFICIAL-Gapps-20241107.zip/download",
-        "timestamp": 1730951745,
-        "md5": "c9db2e077eef8fd92de77d92f06a6d57",
-        "size": 2157761384,
-        "version": "14.0"
+        "filename": "OrionOS-14.1-DarkMatter-vili-OFFICIAL-Gapps-20241122.zip",
+        "download": "https://sourceforge.net/projects/orionos/files/A14/vili/OrionOS-14.1-DarkMatter-vili-OFFICIAL-Gapps-20241122.zip/download",
+        "timestamp": 1732302656,
+        "md5": "1d61e475559c7139e286b6c19bfdc183",
+        "size": 2207033334,
+        "version": "14.1"
     }
   ]
 }
